@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Complier": {
+      "commandName": "Project",
+      "commandLineArgs": "tokens.java"
+    }
+  }
+}
